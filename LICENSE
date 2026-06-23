@@ -1,0 +1,20 @@
+Trino Manager Personal Use License
+
+Copyright (c) 2026 Trino Manager.
+All rights reserved.
+
+Permission is granted to download, install, and use Trino Manager for personal, non-commercial use only.
+
+You may not, without prior written permission:
+
+- copy or redistribute the application;
+- sell, rent, sublicense, or otherwise make the application available to third parties;
+- modify, adapt, translate, or create derivative works from the application;
+- reverse engineer, decompile, disassemble, or attempt to derive the source code, except where applicable law or third-party open-source license terms expressly allow it;
+- remove or alter copyright, license, or attribution notices.
+
+This license applies only to Trino Manager itself.
+
+Third-party components included with or used by Trino Manager remain governed by their own license terms. See THIRD_PARTY_NOTICES.md for additional information.
+
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. USE IT AT YOUR OWN RISK.
