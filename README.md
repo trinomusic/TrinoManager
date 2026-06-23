@@ -55,3 +55,6 @@ If you find a problem, open an issue and include:
 - Which file you were trying to open.
 - What you expected to happen.
 - What actually happened.
+
+[LICENSES_USED](THIRD_PARTY_NOTICES.md)                        
+[TRINO_MANAGER_LICENSE](LICENSE)
