@@ -1,6 +1,6 @@
 # Trino Manager
 
-Trino Manager is a desktop app for organizing, reviewing, and maintaining backups of Trino libraries.
+Trino Manager is a desktop app for organizing, reviewing, and maintaining backups of Trino libraries. 
 
 This repository is intended to publish ready-to-use packaged releases only.
 
